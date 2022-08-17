@@ -1,4 +1,4 @@
-# tmbd_analysis
+# TMDd Movie Data Analysis
 This is my submission for the ALX-T Data Analyst Nanodegree Program's Data Investigation Project. 
 
 ## What this project is about: 
