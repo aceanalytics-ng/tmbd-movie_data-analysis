@@ -1,4 +1,4 @@
-# TMDd Movie Data Analysis
+# TMDb Movie Data Analysis
 
 ## What this project is about: 
 Welcome to this movies data investigation/analysis project. In this project, I seek to deepdive into TMDb dataset, and gain insights into how different movies produced over the years have performed, and maybe observe some trends that may be used as a basis for certain recommendations and action plans. The dataset used contains information about 10,000 movies collected from The Movie Database (TMDb).
